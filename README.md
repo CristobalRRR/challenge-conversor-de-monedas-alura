@@ -22,7 +22,7 @@
         <li>Importar Gson para que funcione correctamente.</li>
         <li>Ejecuta la clase <code>Main</code> para iniciar el programa.</li>
         <li>Selecciona una opción del menú para convertir entre las monedas disponibles.</li>
-        <li>Ingresa la cantidad que deseas convertir.</li>
+        <li>Ingresa la cantidad entera que deseas convertir.</li>
         <li>El programa mostrará el resultado de la conversión.</li>
         <li>Puedes seguir realizando conversiones o salir del programa seleccionando la opción 7.</li>
     </ol>
